@@ -3,7 +3,7 @@ show tables;
 
 describe swiggy;
 select * from swiggy;
-
+-- 
 /* add primary key*/
 alter table swiggy add primary key(id);
 
